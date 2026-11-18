@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 58" role="img" aria-labelledby="logo-title">
+<title id="logo-title">Terrova</title>
+<g fill="none" stroke="#244B3C" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 43 30 16l12 13 13-18 25 31"/>
+<path d="m29 43 12 -15 9 8 12-13 19"/>
+<path d="m9 43 10 0"/>
+</g>
+<text x="83" y="43.5" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#244B3C">Terrova</text>
+</svg>
